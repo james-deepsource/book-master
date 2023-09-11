@@ -11,7 +11,7 @@ This web application empowers librarians to efficiently manage the library's wea
 - Handle book returns from members, complete with rental fee calculations.
 - Efficiently oversee library members and their interactions with the library.
 
-<img width="1437" alt="home" src="https://github.com/james-deepsource/book-master/assets/87924230/c25332ec-d9bd-4ef4-9e8c-06dbb65a53ad">
+<img width="1440" alt="image" src="https://github.com/james-deepsource/book-master/assets/87924230/2a26296d-0a4f-4e66-858e-3881c6dcae3b">
 
 Below are the different workflow scenarios:
 
